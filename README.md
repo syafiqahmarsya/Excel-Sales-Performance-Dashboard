@@ -32,7 +32,7 @@ An interactive sales dashboard developed using Microsoft Excel to analyze sales 
 - Top 5 account managers ranked by profit
 - Interactive filters for city, product category, and year
 
-## Key Insights
+## Insights
 
 - Technology recorded the highest total profit among the three product categories.
 - Surabaya recorded the highest total sales among the three cities shown in the dashboard.
