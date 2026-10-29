@@ -21,7 +21,7 @@ An interactive sales dashboard developed using Microsoft Excel to analyze sales 
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/dashboard-preview.png)
+![Sales Dashboard](Images/dashboard-preview.png)
 
 ## Dashboard Features
 
@@ -47,7 +47,7 @@ An interactive sales dashboard developed using Microsoft Excel to analyze sales 
 ## Files
 
 - `dashboard/sales-dashboard.xlsx`: Interactive Excel dashboard.
-- `images/dashboard-preview.png`: Dashboard screenshot.
+- `Images/dashboard-preview.png`: Dashboard screenshot.
 
 ## Objective
 
